@@ -1,3 +1,24 @@
-header{
-background-color:#3E54AC;
+. {
+margin: 0;
+padding:0;
 }
+
+.cabeçalho {
+background-color:#3E54AC;
+display: flex
+justify-content:space-around
+
+}
+
+.cabeçalho-logo {
+    width: 10%;
+    height: 10%;
+}
+
+.cabeçalho-itens{
+    font-size: 36px;
+    margin: 5px;
+    display: inline-block;
+}
+
+
