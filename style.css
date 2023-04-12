@@ -1,4 +1,4 @@
-. {
+* {
 margin: 0;
 padding:0;
 }
@@ -19,6 +19,20 @@ justify-content:space-around
     font-size: 36px;
     margin: 5px;
     display: inline-block;
+    
 }
 
+.escola {
+    
+    background-color: #FFED00;
+   width: 1440px; 
+   height: 430px; 
+}
 
+.escola-título{
+
+padding-top: 50px;
+    text-align: center;
+    color: #000000;
+
+}
