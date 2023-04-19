@@ -3,6 +3,10 @@ margin: 0;
 padding:0;
 }
 
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
 .cabeçalho {
 background-color:#3E54AC;
 display: flex
@@ -35,4 +39,21 @@ padding-top: 50px;
     text-align: center;
     color: #000000;
 
+}
+
+.escola-parágrafo{
+    
+}
+
+
+
+
+
+
+.galeria {
+    background-color: #FFED00;
+    .galeria-foto{
+        width:240px;
+        border-radius: 33px;
+    }
 }
